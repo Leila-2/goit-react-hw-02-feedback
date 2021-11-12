@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { FeedbackElems } from "../FeedbackOpt/FeedbackElems";
-import data from "./data/feedbackData.json";
+import data from "../data/feedbackData.json";
 import Statistic from "../Statistics/Statistic";
 import { Section } from "../Section/Section";
 class Feedback extends Component {
